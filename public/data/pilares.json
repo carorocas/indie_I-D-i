@@ -1,0 +1,1982 @@
+[
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Bogotá D.C.",
+    "valor": 79.34781036256501,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Antioquia",
+    "valor": 70.4076674896728,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Valle del Cauca",
+    "valor": 62.728841887455864,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Atlántico",
+    "valor": 58.447417854109375,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Santander",
+    "valor": 58.420390772141886,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Risaralda",
+    "valor": 52.61394937428031,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Nariño",
+    "valor": 51.30934060147,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Cundinamarca",
+    "valor": 51.23318452524376,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Huila",
+    "valor": 49.39162398448681,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Bolívar",
+    "valor": 47.57746158822172,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Cesar",
+    "valor": 47.40884151373223,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Boyacá",
+    "valor": 47.16825651402324,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Córdoba",
+    "valor": 46.30849864476939,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Cauca",
+    "valor": 44.04113548517364,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Sucre",
+    "valor": 43.40558642796818,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Caldas",
+    "valor": 40.81914547651788,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Norte de Santander",
+    "valor": 40.63189868675071,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Caquetá",
+    "valor": 38.30562301478997,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Meta",
+    "valor": 36.731471936017606,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Magdalena",
+    "valor": 34.69147377501187,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Casanare",
+    "valor": 32.55927977441026,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Tolima",
+    "valor": 32.155518730634604,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Quindío",
+    "valor": 31.771965392196655,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Putumayo",
+    "valor": 31.64165235429782,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "La Guajira",
+    "valor": 31.33676978052733,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Arauca",
+    "valor": 28.358081202723312,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Chocó",
+    "valor": 24.96233137404151,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Guainía",
+    "valor": 21.96031062237357,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Vaupés",
+    "valor": 20.368870475562495,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "San Andrés y Providencia",
+    "valor": 18.33155704921425,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Vichada",
+    "valor": 17.43001778798344,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Guaviare",
+    "valor": 16.825501471412554,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "pilar": "Entorno institucional y gobernanza",
+    "departamento": "Amazonas",
+    "valor": 16.25747861930161,
+    "subpilares_componentes": [
+      "Capacidades de atención en salud",
+      "Capacidades institucionales",
+      "Capacidades para la gestión de información"
+    ],
+    "ranking": 33,
+    "orden": 33
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Bogotá D.C.",
+    "valor": 94.92432435584436,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Antioquia",
+    "valor": 83.51595666260901,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Valle del Cauca",
+    "valor": 63.63817766076155,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Santander",
+    "valor": 53.953186685561896,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Nariño",
+    "valor": 49.02147426574646,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Atlántico",
+    "valor": 47.38453684587354,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Caldas",
+    "valor": 40.54381554084739,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Tolima",
+    "valor": 40.39008854093753,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Boyacá",
+    "valor": 38.6942407771098,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Córdoba",
+    "valor": 38.63622540461948,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Bolívar",
+    "valor": 38.26378128193968,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Cauca",
+    "valor": 36.66387481089874,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Risaralda",
+    "valor": 35.6556787295413,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Cundinamarca",
+    "valor": 33.77423608682064,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Huila",
+    "valor": 31.006032511689657,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Cesar",
+    "valor": 30.355842715249377,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Norte de Santander",
+    "valor": 29.59797668232423,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Meta",
+    "valor": 23.359505460813423,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Magdalena",
+    "valor": 21.657090392662006,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Caquetá",
+    "valor": 21.631727890266436,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Amazonas",
+    "valor": 19.42097075696392,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Quindío",
+    "valor": 18.205152852677823,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Sucre",
+    "valor": 15.299537625590476,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Chocó",
+    "valor": 14.504640632973498,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Vaupés",
+    "valor": 14.456393772430667,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "San Andrés y Providencia",
+    "valor": 13.612750701706599,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Guainía",
+    "valor": 13.278896582888414,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Casanare",
+    "valor": 13.162992621420688,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "La Guajira",
+    "valor": 13.121898309247612,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Vichada",
+    "valor": 12.413766708820823,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Arauca",
+    "valor": 11.964935827615426,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Putumayo",
+    "valor": 6.358910240391722,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+    "departamento": "Guaviare",
+    "valor": 4.0774445389784555,
+    "subpilares_componentes": [
+      "Articulación y colaboración",
+      "Gestión e infraestructura",
+      "Inversión"
+    ],
+    "ranking": 33,
+    "orden": 33
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Bogotá D.C.",
+    "valor": 74.61868757866105,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Valle del Cauca",
+    "valor": 39.07680646954124,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Antioquia",
+    "valor": 23.805289017189914,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Norte de Santander",
+    "valor": 23.805289017189914,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Bolívar",
+    "valor": 23.4168825149923,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Nariño",
+    "valor": 20.343847300833584,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Santander",
+    "valor": 18.529074315765666,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Risaralda",
+    "valor": 11.701344980251116,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Caldas",
+    "valor": 11.297969699602332,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Magdalena",
+    "valor": 10.457898625663715,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Atlántico",
+    "valor": 10.29030498782705,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Meta",
+    "valor": 5.017166594399683,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Quindío",
+    "valor": 2.380952380952383,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Amazonas",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Arauca",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Boyacá",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Caquetá",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Casanare",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Cauca",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Cesar",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Chocó",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Cundinamarca",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Córdoba",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Guainía",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Guaviare",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Huila",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "La Guajira",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Putumayo",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "San Andrés y Providencia",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Sucre",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Tolima",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Vaupés",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "pilar": "Resultados de desarrollo tecnológico",
+    "departamento": "Vichada",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos empresariales",
+      "Productos normativos",
+      "Productos tecnológicos"
+    ],
+    "ranking": 33,
+    "orden": 33
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Bogotá D.C.",
+    "valor": 100.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Antioquia",
+    "valor": 67.92880255329266,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Valle del Cauca",
+    "valor": 63.13782336102924,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Santander",
+    "valor": 54.10075420490313,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Bolívar",
+    "valor": 49.13283643334842,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Atlántico",
+    "valor": 45.73782939179162,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Tolima",
+    "valor": 43.04326463635063,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Caldas",
+    "valor": 40.86463653560955,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Cundinamarca",
+    "valor": 40.41580109206022,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Nariño",
+    "valor": 39.33778474247796,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Córdoba",
+    "valor": 36.20703318752121,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Cauca",
+    "valor": 35.66657658358736,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Norte de Santander",
+    "valor": 31.678177233771105,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Risaralda",
+    "valor": 29.52144683748102,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Huila",
+    "valor": 27.220241644168734,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Boyacá",
+    "valor": 24.75477455043488,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Quindío",
+    "valor": 19.487963868967753,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Meta",
+    "valor": 18.764630175353112,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Cesar",
+    "valor": 18.59526245929919,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Sucre",
+    "valor": 14.195138610763017,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Magdalena",
+    "valor": 13.362434056231983,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Caquetá",
+    "valor": 13.308989299762212,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "La Guajira",
+    "valor": 7.4550442795376215,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Chocó",
+    "valor": 4.5526571252878005,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "San Andrés y Providencia",
+    "valor": 4.0834208589764645,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Amazonas",
+    "valor": 3.419622847739622,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Casanare",
+    "valor": 1.1981650816165554,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Putumayo",
+    "valor": 0.9403617686135379,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Arauca",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Guainía",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Guaviare",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Vaupés",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+    "departamento": "Vichada",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Productos de formación de recurso humano",
+      "Productos de nuevo conocimiento",
+      "Productos de apropiación social de la CTeI"
+    ],
+    "ranking": 33,
+    "orden": 33
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Bogotá D.C.",
+    "valor": 94.13118393404156,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Antioquia",
+    "valor": 58.151078903375264,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Valle del Cauca",
+    "valor": 53.60494531504886,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Atlántico",
+    "valor": 48.54599451228498,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Caldas",
+    "valor": 40.63823522351171,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Cesar",
+    "valor": 38.70351417458062,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Magdalena",
+    "valor": 38.27838819618752,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Bolívar",
+    "valor": 37.816068674252726,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Boyacá",
+    "valor": 37.621604481025535,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Nariño",
+    "valor": 36.972540079641576,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Cundinamarca",
+    "valor": 34.940545213020606,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Santander",
+    "valor": 34.462809026238986,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Cauca",
+    "valor": 34.31933548893307,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Quindío",
+    "valor": 30.936415864771284,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Caquetá",
+    "valor": 30.82328770054974,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Sucre",
+    "valor": 29.42901941184168,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "San Andrés y Providencia",
+    "valor": 28.550450089462213,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Tolima",
+    "valor": 28.538488837977948,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Huila",
+    "valor": 27.918737209216797,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Risaralda",
+    "valor": 27.195707552701442,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Córdoba",
+    "valor": 25.887443611885924,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Norte de Santander",
+    "valor": 21.897205624501247,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Arauca",
+    "valor": 21.273969777562773,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Meta",
+    "valor": 21.020848410726003,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Putumayo",
+    "valor": 19.002013782643658,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "La Guajira",
+    "valor": 18.398593771602194,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Amazonas",
+    "valor": 12.925436047972482,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Guaviare",
+    "valor": 10.435516142256942,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Casanare",
+    "valor": 9.965587650966391,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Chocó",
+    "valor": 8.710825316015432,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Vaupés",
+    "valor": 2.62828217077713,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Guainía",
+    "valor": 2.4311090763191,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "pilar": "Talento humano",
+    "departamento": "Vichada",
+    "valor": 0.0,
+    "subpilares_componentes": [
+      "Capacidad de formación",
+      "Talento humano en I+D+i",
+      "Talento humano formado"
+    ],
+    "ranking": 33,
+    "orden": 33
+  }
+]

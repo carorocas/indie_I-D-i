@@ -1,0 +1,3467 @@
+[
+  {
+    "departamento": "Bogotá D.C.",
+    "valor_total": 88.6044012462224,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 79.34781036256501
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 94.92432435584436
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 74.61868757866105
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 94.13118393404156
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 38.043431087695026
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 84.77297306753312
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 23.856062735983098
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 95.44538700018886
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 100.0
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 86.94816480193582
+      }
+    ],
+    "ranking": 1,
+    "orden": 1
+  },
+  {
+    "departamento": "Antioquia",
+    "valor_total": 60.76175892522794,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 70.4076674896728
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 83.51595666260901
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 23.805289017189914
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 67.92880255329266
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 58.151078903375264
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 45.3109887858327
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 86.69695989502983
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 79.21505378815593
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 64.37056077767475
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 88.32454847395597
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 97.85276073619634
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 50.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 21.41586705156975
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 78.94900138113854
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 60.79526006970374
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 64.0421462090357
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 45.46146866638232
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 91.36098885564587
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 37.6307791880976
+      }
+    ],
+    "ranking": 2,
+    "orden": 2
+  },
+  {
+    "departamento": "Valle del Cauca",
+    "valor_total": 56.43731893876735,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 62.728841887455864
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 63.63817766076155
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 39.07680646954124
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 63.13782336102924
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 53.60494531504886
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 35.838884759864165
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 75.84601513568713
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 76.50162576681629
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 55.74454479216611
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 68.2980824670175
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 66.87190572310104
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 30.102999566398097
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 49.19469919426065
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 37.93272064796495
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 67.4880948201094
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 75.50185222955284
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 46.423523033425504
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 37.54257910130623
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 76.45247618251771
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 46.81978066132263
+      }
+    ],
+    "ranking": 3,
+    "orden": 3
+  },
+  {
+    "departamento": "Santander",
+    "valor_total": 43.89324300092231,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 58.420390772141886
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 53.953186685561896
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 18.529074315765666
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 54.10075420490313
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 34.462809026238986
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 40.95394199887037
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 72.6910488678783
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 61.616181449676965
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 26.622902052214304
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 66.47950731191517
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 68.7571506925562
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 15.051499783199048
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 40.535723164097945
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 63.31025499204195
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 64.1644668595363
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 34.82754076313115
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 11.212191210878775
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 79.13044689720775
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 13.045788970630435
+      }
+    ],
+    "ranking": 4,
+    "orden": 4
+  },
+  {
+    "departamento": "Atlántico",
+    "valor_total": 42.08121671837731,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 58.447417854109375
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 47.38453684587354
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 10.29030498782705
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 45.73782939179162
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 48.54599451228498
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 37.57788721835596
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 75.33682574303663
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 62.42754060093553
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 38.71194625617985
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 47.563883950924435
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 55.87778033051632
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 30.870914963481148
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 57.27271395137441
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 48.44822905220717
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 31.492545171793303
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 33.8854513100791
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 76.36233667720632
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 35.390195549569505
+      }
+    ],
+    "ranking": 5,
+    "orden": 5
+  },
+  {
+    "departamento": "Nariño",
+    "valor_total": 39.39699739803392,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 51.30934060147
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 49.02147426574646
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 20.343847300833584
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 39.33778474247796
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 36.972540079641576
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 47.70122645130327
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 47.8213778105906
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 58.405417542516126
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 41.546155319012954
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 46.65783694083403
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 58.8604305373924
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 48.53154190250075
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 12.5
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 24.0136432582271
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 40.02621887670681
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 53.973492092499995
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 27.884241006445524
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 52.77737334875038
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 30.256005883728836
+      }
+    ],
+    "ranking": 6,
+    "orden": 6
+  },
+  {
+    "departamento": "Bolívar",
+    "valor_total": 39.24140609855097,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 47.57746158822172
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 38.26378128193968
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 23.4168825149923
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 49.13283643334842
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 37.816068674252726
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 32.26733553404833
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 41.78683122184557
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 68.67821800877127
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.8233956970151
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 34.45561323920343
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 69.5123349096005
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 50.438616285962446
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 19.81203125901445
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 62.30154518518481
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 49.98464597750183
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 35.11231813735865
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 8.8854513100791
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 60.64266496493488
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 43.9200897477442
+      }
+    ],
+    "ranking": 7,
+    "orden": 7
+  },
+  {
+    "departamento": "Caldas",
+    "valor_total": 34.83276049521777,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 40.81914547651788
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.54381554084739
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 11.297969699602332
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 40.86463653560955
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 40.63823522351171
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 20.245404854659157
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 43.56295353803857
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 58.64907803685594
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 34.717352939088855
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 32.2782238369407
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 54.635869846512634
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 26.431712272436396
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 7.4621968263706
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 51.72106069214095
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 41.420769509098164
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 29.452079405589547
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 8.8854513100791
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 67.45188860848727
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 45.57736575196876
+      }
+    ],
+    "ranking": 8,
+    "orden": 8
+  },
+  {
+    "departamento": "Cundinamarca",
+    "valor_total": 32.07275338342905,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 51.23318452524376
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 33.77423608682064
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 40.41580109206022
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 34.940545213020606
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 39.499806540574944
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 31.383743444918068
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 82.81600359023827
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 21.59030964884995
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 16.407486280229232
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 63.32491233138274
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 50.50333523304745
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 44.31582269788386
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 26.42824534524935
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 57.43671881177595
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 47.38491682728586
+      }
+    ],
+    "ranking": 9,
+    "orden": 9
+  },
+  {
+    "departamento": "Risaralda",
+    "valor_total": 31.33762549485104,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 52.61394937428031
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 35.6556787295413
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 11.701344980251116
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 29.52144683748102
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 27.195707552701442
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 45.80950744458755
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 55.8839400492332
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 56.1484006290202
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 51.52901071818044
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 55.438025470443485
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 35.10403494075335
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 12.777811891498
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 38.219902739828164
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 37.5666258811169
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 14.136290133547199
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 67.45083252455713
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 10,
+    "orden": 10
+  },
+  {
+    "departamento": "Cauca",
+    "valor_total": 30.13818447371856,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 44.04113548517364
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 36.66387481089874
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 35.66657658358736
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 34.31933548893307
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 44.6471588628099
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 28.405188473257
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 59.07105911945404
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 15.85598810037945
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 31.427606453118166
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 62.7080298791986
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 36.35768654609
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 40.16647401385217
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 30.4755691908199
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 25.020164884872898
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 51.8406408309376
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 26.09720075098873
+      }
+    ],
+    "ranking": 11,
+    "orden": 11
+  },
+  {
+    "departamento": "Boyacá",
+    "valor_total": 29.647775264518692,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 47.16825651402324
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 38.6942407771098
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 24.75477455043488
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 37.621604481025535
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 43.095421828132025
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 30.60122755657993
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 67.80812015735776
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 26.622902052214304
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 24.838788567182
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 64.62103171193307
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 7.8346794909571
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 38.826282123049
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 27.603362037298552
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 17.666084699114847
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 63.309983664163305
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 31.888745079798436
+      }
+    ],
+    "ranking": 12,
+    "orden": 12
+  },
+  {
+    "departamento": "Norte de Santander",
+    "valor_total": 29.52210944890744,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 40.63189868675071
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 29.59797668232423
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 23.805289017189914
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 31.678177233771105
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 21.897205624501247
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 23.307772331836453
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 37.583515394523204
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 61.00440833389247
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.8233956970151
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 27.0924087737751
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 50.8781255761825
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 50.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 21.41586705156975
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 22.218175803981598
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 50.5972749965753
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 22.2190809007564
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 55.94351978734567
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 9.748097086158065
+      }
+    ],
+    "ranking": 13,
+    "orden": 13
+  },
+  {
+    "departamento": "Córdoba",
+    "valor_total": 29.407840169759204,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 46.30849864476939
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 38.63622540461948
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 36.20703318752121
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 25.887443611885924
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 47.93203993687791
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 52.3907995019583
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 38.60265649547196
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 24.42451871168305
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 41.9880199143633
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 49.49613758781211
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 31.543961446247497
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 39.4518339930318
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 37.62530412328435
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 50.61077866382983
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 27.051552171827936
+      }
+    ],
+    "ranking": 14,
+    "orden": 14
+  },
+  {
+    "departamento": "Tolima",
+    "valor_total": 28.825472149180143,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 32.155518730634604
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.39008854093753
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 43.04326463635063
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 28.538488837977948
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 25.097727395150578
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 37.462166763528074
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 33.90666203322517
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 28.36263028359375
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 34.618017465093295
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 58.18961787412557
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 38.17110591199685
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 38.19887474644583
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 52.7598132506092
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 24.39909739220365
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 47.69719331259702
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 13.519175809133166
+      }
+    ],
+    "ranking": 15,
+    "orden": 15
+  },
+  {
+    "departamento": "Huila",
+    "valor_total": 27.1073270699124,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 49.39162398448681
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 31.006032511689657
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 27.220241644168734
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 27.918737209216797
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 45.6381828543225
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 41.740614098578796
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 60.796075000559135
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 19.1708719730386
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 25.244011969796333
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 48.603213592234034
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 17.666834371206548
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 33.41414445129
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 30.579746110009648
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 5.606095605439375
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 45.69655538812407
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 32.453560634086934
+      }
+    ],
+    "ranking": 16,
+    "orden": 16
+  },
+  {
+    "departamento": "Cesar",
+    "valor_total": 27.01269217257228,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 47.40884151373223
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 30.355842715249377
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 18.59526245929919
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 38.70351417458062
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 40.18169008658232
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 40.39900920293506
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 61.6458252516793
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 17.595716331758947
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 33.204636107671334
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.26717570631783
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 9.88626480108185
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 26.862693234114165
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 19.03682934270155
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 23.863327354707675
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 43.57390141833685
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 48.67331375069734
+      }
+    ],
+    "ranking": 17,
+    "orden": 17
+  },
+  {
+    "departamento": "Magdalena",
+    "valor_total": 23.68945700915142,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 34.69147377501187
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 21.657090392662006
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 10.457898625663715
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 13.362434056231983
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 38.27838819618752
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 39.13162517777693
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 28.187725808692832
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 36.755070338565865
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.351971275512101
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 54.61929990247393
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 31.37369587699115
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 24.2965907482664
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 15.79071142042955
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 25.993595409873997
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 46.184716108195495
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 42.656853070493064
+      }
+    ],
+    "ranking": 18,
+    "orden": 18
+  },
+  {
+    "departamento": "Meta",
+    "valor_total": 20.978724515461966,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 36.731471936017606
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 23.359505460813423
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 5.017166594399683
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 18.764630175353112
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 21.020848410726003
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 19.091463694796555
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 29.695103996912636
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 61.40784811634363
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.8233956970151
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 14.388981278656868
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 44.8661394067683
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 15.051499783199048
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 7.8346794909571
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 27.755148684837632
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 20.7040623502646
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 5.606095605439375
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 46.869693212327775
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 10.586756414410866
+      }
+    ],
+    "ranking": 19,
+    "orden": 19
+  },
+  {
+    "departamento": "Caquetá",
+    "valor_total": 20.813925581073672,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 38.30562301478997
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 21.631727890266436
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 13.308989299762212
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 30.82328770054974
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 45.85090864402023
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 16.631472661085034
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 52.43448773926463
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.76691395183485
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 5.469162093409733
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 48.659107625554725
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 31.117552784203532
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 8.8094151150831
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 20.84009143102388
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 37.98974711296598
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 33.64002455765937
+      }
+    ],
+    "ranking": 20,
+    "orden": 20
+  },
+  {
+    "departamento": "Quindío",
+    "valor_total": 20.55649007191318,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 31.771965392196655
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 18.205152852677823
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 2.380952380952383
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 19.487963868967753
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 30.936415864771284
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 18.601329065192026
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 26.405458688394834
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 50.3091084230031
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 14.1044326407822
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.51102591725127
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 7.1428571428571495
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 7.8346794909571
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 31.592382773244605
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 19.03682934270155
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 5.606095605439375
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 51.0783529000913
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 36.12479908878316
+      }
+    ],
+    "ranking": 21,
+    "orden": 21
+  },
+  {
+    "departamento": "Sucre",
+    "valor_total": 20.46585641523267,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 43.40558642796818
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 15.299537625590476
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 14.195138610763017
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 29.42901941184168
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 56.86607771378728
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 28.567469519089734
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 44.78321205102753
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 5.469162093409733
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.429450783361695
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 9.88626480108185
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 21.3131471683192
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 11.386003862888
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 13.433401428002401
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 44.10573512201312
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 30.7479216855095
+      }
+    ],
+    "ranking": 22,
+    "orden": 22
+  },
+  {
+    "departamento": "La Guajira",
+    "valor_total": 14.06246122818295,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 31.33676978052733
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 13.121898309247612
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 7.4550442795376215
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 18.398593771602194
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 20.16013392827165
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 19.280058948799503
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 54.57011646451083
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 39.36569492774284
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 13.555717723529767
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 8.8094151150831
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 30.022095546885847
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 25.173685767920734
+      }
+    ],
+    "ranking": 23,
+    "orden": 23
+  },
+  {
+    "departamento": "San Andrés y Providencia",
+    "valor_total": 12.915635739871906,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 18.33155704921425
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 13.612750701706599
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 4.0834208589764645
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 28.550450089462213
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 7.303059333842846
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 4.605066245085567
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 43.086545568714335
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 40.8382521051198
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 7.845555019387833
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 4.404707557541561
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 25.549943918400974
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 21.0897809362189
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 39.01162541376677
+      }
+    ],
+    "ranking": 24,
+    "orden": 24
+  },
+  {
+    "departamento": "Arauca",
+    "valor_total": 12.319397361580302,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 28.358081202723312
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 11.964935827615426
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 21.273969777562773
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 30.203334076819026
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 4.682344325204666
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 50.18856520614623
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 3.4506570918373662
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 32.44415039100891
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 14.20893492443085
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 17.159413774170535
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 32.453560634086934
+      }
+    ],
+    "ranking": 25,
+    "orden": 25
+  },
+  {
+    "departamento": "Putumayo",
+    "valor_total": 11.588587629189346,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 31.64165235429782
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 6.358910240391722
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.9403617686135379
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 19.002013782643658
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 32.615508882883006
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 11.981201637002066
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 50.32824654300839
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 6.8288023799241
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 12.247928341251066
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 2.8210853058406133
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 9.590061745679424
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 18.23812680791235
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 29.1778527943392
+      }
+    ],
+    "ranking": 26,
+    "orden": 26
+  },
+  {
+    "departamento": "Casanare",
+    "valor_total": 11.37720502568278,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 32.55927977441026
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 13.162992621420688
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 1.1981650816165554
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 9.965587650966391
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 36.567992182628075
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 7.2988573117974
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 53.8109898288053
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 39.48897786426207
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 3.5944952448496665
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 17.379529093776775
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 12.5172338591224
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 27,
+    "orden": 27
+  },
+  {
+    "departamento": "Chocó",
+    "valor_total": 10.546090889663649,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 24.96233137404151
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 14.504640632973498
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 4.5526571252878005
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 8.710825316015432
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 18.018697753652024
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 7.2988573117974
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 49.5694390566751
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 43.51392189892049
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 13.6579713758634
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 5.606095605439375
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 12.984222896656721
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 7.5421574459502
+      }
+    ],
+    "ranking": 28,
+    "orden": 28
+  },
+  {
+    "departamento": "Amazonas",
+    "valor_total": 10.404701654395527,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 16.25747861930161
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 19.42097075696392
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 3.419622847739622
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 12.925436047972482
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 7.737716329567296
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 41.03471952833753
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 10.76691395183485
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 6.3517137475591
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 41.14428457149781
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 10.258868543218867
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 20.283564639152676
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 18.492743504764775
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 29,
+    "orden": 29
+  },
+  {
+    "departamento": "Guainía",
+    "valor_total": 7.534063256316216,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 21.96031062237357
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 13.278896582888414
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 2.4311090763191
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 32.54759853378737
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 33.33333333333333
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 6.3517137475591
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 33.48497600110613
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 7.2933272289573
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 30,
+    "orden": 30
+  },
+  {
+    "departamento": "Vaupés",
+    "valor_total": 7.490709283754059,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 20.368870475562495
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 14.456393772430667
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 2.62828217077713
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 25.064267352185087
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 36.042344074502395
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 43.369181317291996
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 7.884846512331389
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 31,
+    "orden": 31
+  },
+  {
+    "departamento": "Guaviare",
+    "valor_total": 6.26769243052959,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 16.825501471412554
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 4.0774445389784555
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 10.435516142256942
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 8.86840286997723
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 41.60810154426044
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 12.232333616935366
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 20.520951393462724
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 10.7855970333081
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 32,
+    "orden": 32
+  },
+  {
+    "departamento": "Vichada",
+    "valor_total": 5.968756899360853,
+    "pilares": [
+      {
+        "nombre": "Entorno institucional y gobernanza",
+        "valor": 17.43001778798344
+      },
+      {
+        "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 12.413766708820823
+      },
+      {
+        "nombre": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "subpilares": [
+      {
+        "nombre": "Capacidades de atención en salud",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 14.298502591820093
+      },
+      {
+        "nombre": "Capacidades institucionales",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidades para la gestión de información",
+        "pilar": "Entorno institucional y gobernanza",
+        "valor": 37.99155077213023
+      },
+      {
+        "nombre": "Articulación y colaboración",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Gestión e infraestructura",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Inversión",
+        "pilar": "Inversión, Infraestructura y Articulación Estratégica",
+        "valor": 37.24130012646247
+      },
+      {
+        "nombre": "Productos empresariales",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos normativos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos tecnológicos",
+        "pilar": "Resultados de desarrollo tecnológico",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de formación de recurso humano",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de nuevo conocimiento",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Productos de apropiación social de la CTeI",
+        "pilar": "Resultados de formación, generación y apropiación de conocimiento",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Capacidad de formación",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano en I+D+i",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      },
+      {
+        "nombre": "Talento humano formado",
+        "pilar": "Talento humano",
+        "valor": 0.0
+      }
+    ],
+    "ranking": 33,
+    "orden": 33
+  }
+]

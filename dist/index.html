@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Visor territorial del Índice de Capacidades de I+D+i para el control integral del cáncer en Colombia, medición 2026."
+    />
+    <title>Visor Territorial del Índice I+D+i en Cáncer</title>
+    <link rel="icon" href="./public/assets/logo-inc.png" />
+    <link rel="stylesheet" href="./src/styles/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#inicio" aria-label="Ir al inicio">
+        <img src="./public/assets/logo-inc.png" alt="Instituto Nacional de Cancerología" />
+        <span>Índice I+D+i en Cáncer</span>
+      </a>
+      <nav id="site-nav" class="site-nav" aria-label="Navegación principal">
+        <a href="#inicio" data-nav="inicio">Inicio</a>
+        <a href="#indicadores" data-nav="indicadores">Indicadores</a>
+        <a href="#subpilares" data-nav="subpilares">Subpilares</a>
+        <a href="#pilares" data-nav="pilares">Pilares</a>
+        <a href="#total" data-nav="total">Índice total</a>
+        <a href="#metodologia" data-nav="metodologia">Sobre el índice</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="inicio" class="page-section hero-section" data-page="inicio">
+        <div class="hero-content">
+          <p class="eyebrow">Medición territorial 2026</p>
+          <h1>Visor Territorial del Índice I+D+i en Cáncer</h1>
+          <p class="hero-subtitle">Capacidades para el control integral del cáncer en Colombia</p>
+          <p>
+            Proporcionar una herramienta interactiva para la visualización y consulta de los
+            resultados del Índice de Capacidades de I+D+i para el control integral del cáncer,
+            medido en 2026, con desagregación a nivel departamental y del Distrito Capital.
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#total">Explorar el visor</a>
+            <a class="secondary-action" href="#indicadores">Consultar indicadores</a>
+          </div>
+        </div>
+        <aside class="overview-panel" aria-label="Resumen del visor">
+          <div>
+            <span>Año</span>
+            <strong>2026</strong>
+          </div>
+          <div>
+            <span>Cobertura</span>
+            <strong>32 departamentos y Bogotá D.C.</strong>
+          </div>
+          <div>
+            <span>Consulta</span>
+            <strong>Solo lectura</strong>
+          </div>
+        </aside>
+      </section>
+
+      <section class="intro-band">
+        <div>
+          <h2>Usuarios objetivo</h2>
+          <p>
+            Investigadores, tomadores de decisión, actores del sistema de ciencia, tecnología e
+            innovación, organizaciones públicas y privadas, pacientes, cuidadores y ciudadanía
+            interesada en conocer el estado de las capacidades de I+D+i en cáncer en Colombia.
+          </p>
+        </div>
+        <div>
+          <h2>Nota de interpretación</h2>
+          <p>
+            Los resultados reflejan heterogeneidad territorial en el desarrollo de capacidades de
+            I+D+i en cáncer y deben interpretarse considerando la disponibilidad de información y
+            los distintos niveles de consolidación institucional en los territorios.
+          </p>
+        </div>
+      </section>
+
+      <section id="indicadores" class="page-section" data-page="indicadores">
+        <div class="section-heading">
+          <p class="eyebrow">Detalle normalizado</p>
+          <h2>Indicadores</h2>
+          <p>Seleccione un indicador para consultar el orden territorial y su ubicación en la estructura del índice.</p>
+        </div>
+        <div class="explorer-layout">
+          <div class="control-panel">
+            <label for="indicador-select">Indicador</label>
+            <select id="indicador-select"></select>
+            <div id="indicador-context" class="context-box"></div>
+          </div>
+          <div id="indicador-list" class="result-panel"></div>
+        </div>
+      </section>
+
+      <section id="subpilares" class="page-section" data-page="subpilares">
+        <div class="section-heading">
+          <p class="eyebrow">Agregación intermedia</p>
+          <h2>Subpilares</h2>
+          <p>Consulte los resultados por subpilar y los indicadores que lo componen.</p>
+        </div>
+        <div class="explorer-layout">
+          <div class="control-panel">
+            <label for="subpilar-select">Subpilar</label>
+            <select id="subpilar-select"></select>
+            <div id="subpilar-context" class="context-box"></div>
+          </div>
+          <div id="subpilar-list" class="result-panel"></div>
+        </div>
+      </section>
+
+      <section id="pilares" class="page-section" data-page="pilares">
+        <div class="section-heading">
+          <p class="eyebrow">Estructura principal</p>
+          <h2>Pilares</h2>
+          <p>Explore el desempeño territorial por pilar y sus subpilares asociados.</p>
+        </div>
+        <div class="explorer-layout">
+          <div class="control-panel">
+            <label for="pilar-select">Pilar</label>
+            <select id="pilar-select"></select>
+            <div id="pilar-context" class="context-box"></div>
+          </div>
+          <div id="pilar-list" class="result-panel"></div>
+        </div>
+      </section>
+
+      <section id="total" class="page-section" data-page="total">
+        <div class="section-heading">
+          <p class="eyebrow">Resultado final</p>
+          <h2>Índice total</h2>
+          <p>Mapa coroplético y ranking general por departamento y Bogotá D.C.</p>
+        </div>
+        <div class="total-layout">
+          <div class="map-panel">
+            <div id="map-root" class="map-root" aria-label="Mapa de Colombia por índice total"></div>
+            <div class="legend" aria-label="Escala de color">
+              <span>Menor puntaje</span>
+              <div class="legend-gradient"></div>
+              <span>Mayor puntaje</span>
+            </div>
+          </div>
+          <aside id="territory-panel" class="territory-panel" aria-live="polite"></aside>
+        </div>
+        <div class="ranking-section">
+          <h3>Ranking territorial</h3>
+          <div id="total-ranking" class="result-panel"></div>
+        </div>
+      </section>
+
+      <section id="metodologia" class="page-section methodology-section" data-page="metodologia">
+        <div class="section-heading">
+          <p class="eyebrow">Sobre el índice</p>
+          <h2>Metodología breve</h2>
+          <p>
+            El visor presenta resultados normalizados y agregados del índice, organizados en la
+            jerarquía indicadores, subpilares, pilares e índice total. La consulta pública no expone
+            fórmulas ni el archivo maestro de cálculo.
+          </p>
+        </div>
+        <div id="structure-summary" class="structure-summary"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Instituto Nacional de Cancerología · Visor territorial de consulta pública</p>
+      <p>Aplicación estática compatible con GitHub Pages. Datos derivados del Excel maestro mediante script reproducible.</p>
+    </footer>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

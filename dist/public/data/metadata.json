@@ -1,0 +1,573 @@
+{
+  "nombre_indice": "Indice de Capacidades de I+D+i para el control integral del cancer",
+  "anio": 2026,
+  "cobertura": "32 departamentos de Colombia y Bogotá D.C.",
+  "departamentos": [
+    "Amazonas",
+    "Antioquia",
+    "Arauca",
+    "Atlántico",
+    "Bogotá D.C.",
+    "Bolívar",
+    "Boyacá",
+    "Caldas",
+    "Caquetá",
+    "Casanare",
+    "Cauca",
+    "Cesar",
+    "Chocó",
+    "Córdoba",
+    "Cundinamarca",
+    "Guainía",
+    "Guaviare",
+    "Huila",
+    "La Guajira",
+    "Magdalena",
+    "Meta",
+    "Nariño",
+    "Norte de Santander",
+    "Putumayo",
+    "Quindío",
+    "Risaralda",
+    "San Andrés y Providencia",
+    "Santander",
+    "Sucre",
+    "Tolima",
+    "Valle del Cauca",
+    "Vaupés",
+    "Vichada"
+  ],
+  "fuente_excel": "CALCULO_resumenV2.xlsx",
+  "generado_en": "2026-04-14T15:50:15.794103+00:00",
+  "pilares": [
+    {
+      "nombre": "Entorno institucional y gobernanza",
+      "subpilares": [
+        {
+          "nombre": "Capacidades de atención en salud",
+          "indicadores": [
+            "Porcentaje de pacientes con acceso a tratamiento oncológico",
+            "Porcentaje de la población con acceso a consultas de promoción y prevención primaria en cáncer",
+            "Porcentaje de la población que participa en programas tamizaje",
+            "Número de servicios de salud oncológicos habilitados"
+          ]
+        },
+        {
+          "nombre": "Capacidades institucionales",
+          "indicadores": [
+            "Número de centros, de investigación o salud, que han participado en los últimos 5 años en ensayos clínicos relacionados con cáncer",
+            "Número de Instituciones Prestadoras de Servicios de Salud (IPS) con infraestructura de servicio oncológico",
+            "Número de instituciones o entidades que desarrollan actividades de I+D+i en cáncer"
+          ]
+        },
+        {
+          "nombre": "Capacidades para la gestión de información",
+          "indicadores": [
+            "Número de instituciones o entidades que reportan en los Registros Individuales de Prestación de Servicios de Salud (RIPS) atenciones en la prestación de servicios relacionados con tratamientos para el cáncer",
+            "Número de instituciones o entidades que reportan en el SIVIGILA incidencia de cáncer",
+            "Proporción de municipios con reporte de Análisis de Situación de Salud (ASIS) con información sobre cáncer, publicado en los últimos 5 años"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Talento humano",
+      "subpilares": [
+        {
+          "nombre": "Capacidad de formación",
+          "indicadores": [
+            "Número de matriculados de programas de especialidades médicas en oncología",
+            "Número de matriculados de programas de doctorado y maestría en cáncer",
+            "Número de programas de especialidades médicas en oncología",
+            "Número de programas de doctorado y maestría en cáncer"
+          ]
+        },
+        {
+          "nombre": "Talento humano en I+D+i",
+          "indicadores": [
+            "Número de grupos de investigación relacionados con cáncer reconocidos por MinCiencias",
+            "Número de investigadores vinculados a grupos reconocidos por MinCiencias, que investigan en cáncer",
+            "Número de personas ocupadas en actividades de I+D+i en cáncer",
+            "medida compuesta (investigadores + gasto I+D + desempeño formación avanzada) actividades de I+D+i"
+          ]
+        },
+        {
+          "nombre": "Talento humano formado",
+          "indicadores": [
+            "Número de graduados de programas de especialidades médicas en oncología",
+            "Número de graduados de programas de doctorado y maestría en cáncer",
+            "Número de personas formadas en cursos de prevención y detección temprana del cáncer"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Inversión, Infraestructura y Articulación Estratégica",
+      "subpilares": [
+        {
+          "nombre": "Articulación y colaboración",
+          "indicadores": [
+            "Número de convenios o alianzas interinstitucionales en temas de investigación, innovación o transferencia de conocimiento relacionados con cáncer en los últimos 5 años",
+            "Número de instituciones o entidades que participan en la Red Nacional de Investigación en Cáncer"
+          ]
+        },
+        {
+          "nombre": "Gestión e infraestructura",
+          "indicadores": [
+            "Número de convocatorias de fomento al desarrollo de proyectos de I+D+i en cáncer, en los que han participado las entidades o instituciones en los últimos 5 años",
+            "Número de proyectos de I+D+i ejecutados relacionados con cáncer en los últimos 5 años",
+            "Número de ensayos clínicos en cáncer ejecutados en los últimos 5 años"
+          ]
+        },
+        {
+          "nombre": "Inversión",
+          "indicadores": [
+            "Monto invertido en el control integral del cáncer",
+            "Monto invertido en I+D+i en salud en los últimos 5 años",
+            "Monto invertido en crédito, inversión, comercio como sofisticación del mercado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Resultados de desarrollo tecnológico",
+      "subpilares": [
+        {
+          "nombre": "Productos empresariales",
+          "indicadores": [
+            "Número de empresas de base tecnológica derivados de grupos de I+D+i en oncología",
+            "Número de innovaciones (de productos, servicios y procedimientos) derivados de grupos de I+D+i en oncología"
+          ]
+        },
+        {
+          "nombre": "Productos normativos",
+          "indicadores": [
+            "Número de protocolos de vigilancia epidemiológica derivados de grupos de I+D+i en oncología",
+            "Número de regulaciones y normas derivados de grupos de I+D+i en oncología"
+          ]
+        },
+        {
+          "nombre": "Productos tecnológicos",
+          "indicadores": [
+            "Número de diseños y prototipos industriales derivados de grupos de I+D+i en oncología",
+            "Número de software derivados de grupos de I+D+i en oncología"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Resultados de formación, generación y apropiación de conocimiento",
+      "subpilares": [
+        {
+          "nombre": "Productos de formación de recurso humano",
+          "indicadores": [
+            "Número de tesis de maestría dirigidas por grupos de I+D+i en oncología",
+            "Número de tesis de doctorado dirigidas por grupos de I+D+i en oncología"
+          ]
+        },
+        {
+          "nombre": "Productos de nuevo conocimiento",
+          "indicadores": [
+            "Número de citaciones de documentos científicos en cáncer publicados en revistas indexadas",
+            "Número de patentes de invención y modelos de utilidad concedidos derivados de grupos de I+D+i en oncología",
+            "Número de publicaciones en revistas científicas indexadas en temas relacionados con cáncer"
+          ]
+        },
+        {
+          "nombre": "Productos de apropiación social de la CTeI",
+          "indicadores": [
+            "Número de productos de apropiación social del conocimiento derivados de grupos de I+D+i en oncología",
+            "Número de productos de divulgación de la CTeI derivados de grupos de I+D+i en oncología"
+          ]
+        }
+      ]
+    }
+  ],
+  "subpilares": [
+    {
+      "nombre": "Capacidades de atención en salud",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Capacidades institucionales",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Capacidades para la gestión de información",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Capacidad de formación",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Talento humano en I+D+i",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Talento humano formado",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Articulación y colaboración",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Gestión e infraestructura",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Inversión",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Productos empresariales",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Productos normativos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Productos tecnológicos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Productos de formación de recurso humano",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Productos de nuevo conocimiento",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Productos de apropiación social de la CTeI",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    }
+  ],
+  "indicadores": [
+    {
+      "nombre": "Porcentaje de pacientes con acceso a tratamiento oncológico",
+      "subpilar": "Capacidades de atención en salud",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Porcentaje de la población con acceso a consultas de promoción y prevención primaria en cáncer",
+      "subpilar": "Capacidades de atención en salud",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Porcentaje de la población que participa en programas tamizaje",
+      "subpilar": "Capacidades de atención en salud",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de servicios de salud oncológicos habilitados",
+      "subpilar": "Capacidades de atención en salud",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de centros, de investigación o salud, que han participado en los últimos 5 años en ensayos clínicos relacionados con cáncer",
+      "subpilar": "Capacidades institucionales",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de Instituciones Prestadoras de Servicios de Salud (IPS) con infraestructura de servicio oncológico",
+      "subpilar": "Capacidades institucionales",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de instituciones o entidades que desarrollan actividades de I+D+i en cáncer",
+      "subpilar": "Capacidades institucionales",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de instituciones o entidades que reportan en los Registros Individuales de Prestación de Servicios de Salud (RIPS) atenciones en la prestación de servicios relacionados con tratamientos para el cáncer",
+      "subpilar": "Capacidades para la gestión de información",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de instituciones o entidades que reportan en el SIVIGILA incidencia de cáncer",
+      "subpilar": "Capacidades para la gestión de información",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Proporción de municipios con reporte de Análisis de Situación de Salud (ASIS) con información sobre cáncer, publicado en los últimos 5 años",
+      "subpilar": "Capacidades para la gestión de información",
+      "pilar": "Entorno institucional y gobernanza"
+    },
+    {
+      "nombre": "Número de matriculados de programas de especialidades médicas en oncología",
+      "subpilar": "Capacidad de formación",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de matriculados de programas de doctorado y maestría en cáncer",
+      "subpilar": "Capacidad de formación",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de programas de especialidades médicas en oncología",
+      "subpilar": "Capacidad de formación",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de programas de doctorado y maestría en cáncer",
+      "subpilar": "Capacidad de formación",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de grupos de investigación relacionados con cáncer reconocidos por MinCiencias",
+      "subpilar": "Talento humano en I+D+i",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de investigadores vinculados a grupos reconocidos por MinCiencias, que investigan en cáncer",
+      "subpilar": "Talento humano en I+D+i",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de personas ocupadas en actividades de I+D+i en cáncer",
+      "subpilar": "Talento humano en I+D+i",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "medida compuesta (investigadores + gasto I+D + desempeño formación avanzada) actividades de I+D+i",
+      "subpilar": "Talento humano en I+D+i",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de graduados de programas de especialidades médicas en oncología",
+      "subpilar": "Talento humano formado",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de graduados de programas de doctorado y maestría en cáncer",
+      "subpilar": "Talento humano formado",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de personas formadas en cursos de prevención y detección temprana del cáncer",
+      "subpilar": "Talento humano formado",
+      "pilar": "Talento humano"
+    },
+    {
+      "nombre": "Número de convenios o alianzas interinstitucionales en temas de investigación, innovación o transferencia de conocimiento relacionados con cáncer en los últimos 5 años",
+      "subpilar": "Articulación y colaboración",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Número de instituciones o entidades que participan en la Red Nacional de Investigación en Cáncer",
+      "subpilar": "Articulación y colaboración",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Número de convocatorias de fomento al desarrollo de proyectos de I+D+i en cáncer, en los que han participado las entidades o instituciones en los últimos 5 años",
+      "subpilar": "Gestión e infraestructura",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Número de proyectos de I+D+i ejecutados relacionados con cáncer en los últimos 5 años",
+      "subpilar": "Gestión e infraestructura",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Número de ensayos clínicos en cáncer ejecutados en los últimos 5 años",
+      "subpilar": "Gestión e infraestructura",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Monto invertido en el control integral del cáncer",
+      "subpilar": "Inversión",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Monto invertido en I+D+i en salud en los últimos 5 años",
+      "subpilar": "Inversión",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Monto invertido en crédito, inversión, comercio como sofisticación del mercado",
+      "subpilar": "Inversión",
+      "pilar": "Inversión, Infraestructura y Articulación Estratégica"
+    },
+    {
+      "nombre": "Número de empresas de base tecnológica derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos empresariales",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de innovaciones (de productos, servicios y procedimientos) derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos empresariales",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de protocolos de vigilancia epidemiológica derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos normativos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de regulaciones y normas derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos normativos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de diseños y prototipos industriales derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos tecnológicos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de software derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos tecnológicos",
+      "pilar": "Resultados de desarrollo tecnológico"
+    },
+    {
+      "nombre": "Número de tesis de maestría dirigidas por grupos de I+D+i en oncología",
+      "subpilar": "Productos de formación de recurso humano",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de tesis de doctorado dirigidas por grupos de I+D+i en oncología",
+      "subpilar": "Productos de formación de recurso humano",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de citaciones de documentos científicos en cáncer publicados en revistas indexadas",
+      "subpilar": "Productos de nuevo conocimiento",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de patentes de invención y modelos de utilidad concedidos derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos de nuevo conocimiento",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de publicaciones en revistas científicas indexadas en temas relacionados con cáncer",
+      "subpilar": "Productos de nuevo conocimiento",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de productos de apropiación social del conocimiento derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos de apropiación social de la CTeI",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    },
+    {
+      "nombre": "Número de productos de divulgación de la CTeI derivados de grupos de I+D+i en oncología",
+      "subpilar": "Productos de apropiación social de la CTeI",
+      "pilar": "Resultados de formación, generación y apropiación de conocimiento"
+    }
+  ],
+  "relaciones": {
+    "pilar_subpilares": {
+      "Entorno institucional y gobernanza": [
+        "Capacidades de atención en salud",
+        "Capacidades institucionales",
+        "Capacidades para la gestión de información"
+      ],
+      "Talento humano": [
+        "Capacidad de formación",
+        "Talento humano en I+D+i",
+        "Talento humano formado"
+      ],
+      "Inversión, Infraestructura y Articulación Estratégica": [
+        "Articulación y colaboración",
+        "Gestión e infraestructura",
+        "Inversión"
+      ],
+      "Resultados de desarrollo tecnológico": [
+        "Productos empresariales",
+        "Productos normativos",
+        "Productos tecnológicos"
+      ],
+      "Resultados de formación, generación y apropiación de conocimiento": [
+        "Productos de formación de recurso humano",
+        "Productos de nuevo conocimiento",
+        "Productos de apropiación social de la CTeI"
+      ]
+    },
+    "subpilar_indicadores": {
+      "Entorno institucional y gobernanza > Capacidades de atención en salud": [
+        "Porcentaje de pacientes con acceso a tratamiento oncológico",
+        "Porcentaje de la población con acceso a consultas de promoción y prevención primaria en cáncer",
+        "Porcentaje de la población que participa en programas tamizaje",
+        "Número de servicios de salud oncológicos habilitados"
+      ],
+      "Entorno institucional y gobernanza > Capacidades institucionales": [
+        "Número de centros, de investigación o salud, que han participado en los últimos 5 años en ensayos clínicos relacionados con cáncer",
+        "Número de Instituciones Prestadoras de Servicios de Salud (IPS) con infraestructura de servicio oncológico",
+        "Número de instituciones o entidades que desarrollan actividades de I+D+i en cáncer"
+      ],
+      "Entorno institucional y gobernanza > Capacidades para la gestión de información": [
+        "Número de instituciones o entidades que reportan en los Registros Individuales de Prestación de Servicios de Salud (RIPS) atenciones en la prestación de servicios relacionados con tratamientos para el cáncer",
+        "Número de instituciones o entidades que reportan en el SIVIGILA incidencia de cáncer",
+        "Proporción de municipios con reporte de Análisis de Situación de Salud (ASIS) con información sobre cáncer, publicado en los últimos 5 años"
+      ],
+      "Talento humano > Capacidad de formación": [
+        "Número de matriculados de programas de especialidades médicas en oncología",
+        "Número de matriculados de programas de doctorado y maestría en cáncer",
+        "Número de programas de especialidades médicas en oncología",
+        "Número de programas de doctorado y maestría en cáncer"
+      ],
+      "Talento humano > Talento humano en I+D+i": [
+        "Número de grupos de investigación relacionados con cáncer reconocidos por MinCiencias",
+        "Número de investigadores vinculados a grupos reconocidos por MinCiencias, que investigan en cáncer",
+        "Número de personas ocupadas en actividades de I+D+i en cáncer",
+        "medida compuesta (investigadores + gasto I+D + desempeño formación avanzada) actividades de I+D+i"
+      ],
+      "Talento humano > Talento humano formado": [
+        "Número de graduados de programas de especialidades médicas en oncología",
+        "Número de graduados de programas de doctorado y maestría en cáncer",
+        "Número de personas formadas en cursos de prevención y detección temprana del cáncer"
+      ],
+      "Inversión, Infraestructura y Articulación Estratégica > Articulación y colaboración": [
+        "Número de convenios o alianzas interinstitucionales en temas de investigación, innovación o transferencia de conocimiento relacionados con cáncer en los últimos 5 años",
+        "Número de instituciones o entidades que participan en la Red Nacional de Investigación en Cáncer"
+      ],
+      "Inversión, Infraestructura y Articulación Estratégica > Gestión e infraestructura": [
+        "Número de convocatorias de fomento al desarrollo de proyectos de I+D+i en cáncer, en los que han participado las entidades o instituciones en los últimos 5 años",
+        "Número de proyectos de I+D+i ejecutados relacionados con cáncer en los últimos 5 años",
+        "Número de ensayos clínicos en cáncer ejecutados en los últimos 5 años"
+      ],
+      "Inversión, Infraestructura y Articulación Estratégica > Inversión": [
+        "Monto invertido en el control integral del cáncer",
+        "Monto invertido en I+D+i en salud en los últimos 5 años",
+        "Monto invertido en crédito, inversión, comercio como sofisticación del mercado"
+      ],
+      "Resultados de desarrollo tecnológico > Productos empresariales": [
+        "Número de empresas de base tecnológica derivados de grupos de I+D+i en oncología",
+        "Número de innovaciones (de productos, servicios y procedimientos) derivados de grupos de I+D+i en oncología"
+      ],
+      "Resultados de desarrollo tecnológico > Productos normativos": [
+        "Número de protocolos de vigilancia epidemiológica derivados de grupos de I+D+i en oncología",
+        "Número de regulaciones y normas derivados de grupos de I+D+i en oncología"
+      ],
+      "Resultados de desarrollo tecnológico > Productos tecnológicos": [
+        "Número de diseños y prototipos industriales derivados de grupos de I+D+i en oncología",
+        "Número de software derivados de grupos de I+D+i en oncología"
+      ],
+      "Resultados de formación, generación y apropiación de conocimiento > Productos de formación de recurso humano": [
+        "Número de tesis de maestría dirigidas por grupos de I+D+i en oncología",
+        "Número de tesis de doctorado dirigidas por grupos de I+D+i en oncología"
+      ],
+      "Resultados de formación, generación y apropiación de conocimiento > Productos de nuevo conocimiento": [
+        "Número de citaciones de documentos científicos en cáncer publicados en revistas indexadas",
+        "Número de patentes de invención y modelos de utilidad concedidos derivados de grupos de I+D+i en oncología",
+        "Número de publicaciones en revistas científicas indexadas en temas relacionados con cáncer"
+      ],
+      "Resultados de formación, generación y apropiación de conocimiento > Productos de apropiación social de la CTeI": [
+        "Número de productos de apropiación social del conocimiento derivados de grupos de I+D+i en oncología",
+        "Número de productos de divulgación de la CTeI derivados de grupos de I+D+i en oncología"
+      ]
+    }
+  },
+  "decisiones_cartograficas": [
+    "Se usa una capa departamental DANE 2018 en GeoJSON como archivo estático.",
+    "Bogotá D.C. está representada como entidad separada en la capa fuente.",
+    "La entidad cartográfica Archipiélago de San Andrés, Providencia y Santa Catalina se etiqueta como San Andrés y Providencia para coincidir con el Excel."
+  ],
+  "decisiones_limpieza": [
+    "Los encabezados y nombres se limpian eliminando espacios redundantes.",
+    "Las variantes de Bogotá D.C. y San Andrés se normalizan para el frontend.",
+    "La variante 'Productos de nuevo conocimeinto' se alinea con 'Productos de nuevo conocimiento' por coincidencia textual dentro del mismo pilar."
+  ]
+}
